@@ -1,0 +1,15 @@
+{
+  "_comment": "Explicit statements found in each plugin's README. Add an entry only when the author says it in writing, and cite where.",
+  "successors": {
+    "bitbag/wishlist-plugin": { "to": "sylius/wishlist-plugin", "source": "README deprecation note: Sylius 2.x support is handled by the Sylius team" },
+    "bitbag/cms-plugin": { "to": "sylius/cms-plugin", "source": "README deprecation note: Sylius 2.x support is handled by the Sylius team" },
+    "flux-se/sylius-payum-stripe-plugin": { "to": "flux-se/sylius-stripe-plugin", "source": "README: for Sylius 2.x, use the official Sylius/StripePlugin" },
+    "mollie/sylius-plugin": { "to": "sylius/mollie-plugin", "source": "README: now maintained by Sylius, use sylius/mollie-plugin" },
+    "sylius/shop-api-plugin": { "to": null, "label": "the Sylius core API", "source": "README: deprecated, use the Sylius API" }
+  },
+  "deprecated": {
+    "sylius/admin-order-creation-plugin": "README: deprecated, will not be maintained or evolved by the Sylius team",
+    "sylius/customer-reorder-plugin": "README: deprecated, will not be maintained or evolved by the Sylius team",
+    "bitbag/bonus-points-plugin": "README: not maintained anymore, points to the Sylius Plus Loyalty plugin (commercial)"
+  }
+}

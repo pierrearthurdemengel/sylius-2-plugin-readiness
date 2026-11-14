@@ -1,0 +1,25 @@
+{
+ "generatedAt": "2026-11-14",
+ "latestSylius": "v2.3.2",
+ "total": 802,
+ "declared": 782,
+ "byStatus": {
+  "ready": 247,
+  "replaced": 5,
+  "prerelease": 13,
+  "deprecated": 3,
+  "branch": 32,
+  "v1-only": 482
+ },
+ "active": 397,
+ "activeByStatus": {
+  "ready": 240,
+  "replaced": 3,
+  "prerelease": 10,
+  "branch": 11,
+  "v1-only": 132,
+  "deprecated": 1
+ },
+ "activeReadyPct": 60.5,
+ "readyDownloadPct": 83
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pierrearthurdemengel.github.io/sylius-2-plugin-readiness/sitemap.xml

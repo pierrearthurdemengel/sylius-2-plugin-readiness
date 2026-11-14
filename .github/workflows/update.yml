@@ -1,0 +1,32 @@
+name: Weekly update
+
+on:
+  schedule:
+    - cron: "0 5 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Collect Packagist data
+        run: node scripts/collect.mjs data
+      - name: Classify plugins
+        run: node scripts/analyze.mjs data
+      - name: Build the site
+        run: node scripts/build.mjs
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/plugins.json data/summary.json data/sylius-versions.json data/monorepo.json docs
+          git diff --cached --quiet || git commit -m "data: weekly update $(date -u +%F)"
+          git push
