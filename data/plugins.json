@@ -6,8 +6,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/RefundPlugin",
-  "monthly": 54049,
-  "total": 1957026,
+  "monthly": 54148,
+  "total": 1957125,
   "stars": 73,
   "latest": {
    "version": "v2.2.1",
@@ -35,8 +35,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/PayPalPlugin",
-  "monthly": 46319,
-  "total": 1713430,
+  "monthly": 46364,
+  "total": 1713475,
   "stars": 46,
   "latest": {
    "version": "v2.1.0",
@@ -93,8 +93,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/MolliePlugin",
-  "monthly": 32619,
-  "total": 329189,
+  "monthly": 32655,
+  "total": 329225,
   "stars": 9,
   "latest": {
    "version": "v3.5.0",
@@ -122,8 +122,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/StripePlugin",
-  "monthly": 22611,
-  "total": 133443,
+  "monthly": 22634,
+  "total": 133466,
   "stars": 13,
   "latest": {
    "version": "v2.1.0",
@@ -151,8 +151,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/stefandoorn/sitemap-plugin",
-  "monthly": 21601,
-  "total": 1153986,
+  "monthly": 21611,
+  "total": 1153996,
   "stars": 84,
   "latest": {
    "version": "v3.0.1",
@@ -180,8 +180,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusRichEditorPlugin",
-  "monthly": 16398,
-  "total": 478481,
+  "monthly": 16418,
+  "total": 478501,
   "stars": 75,
   "latest": {
    "version": "v3.2.0",
@@ -209,8 +209,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/CmsPlugin",
-  "monthly": 15639,
-  "total": 138702,
+  "monthly": 15644,
+  "total": 138707,
   "stars": 18,
   "latest": {
    "version": "v1.2.0",
@@ -238,8 +238,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/AdyenPlugin",
-  "monthly": 14698,
-  "total": 50123,
+  "monthly": 14719,
+  "total": 50144,
   "stars": 1,
   "latest": {
    "version": "v2.1.0",
@@ -267,8 +267,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/BitBagCommerce/SyliusElasticsearchPlugin",
-  "monthly": 13719,
-  "total": 600123,
+  "monthly": 13720,
+  "total": 600124,
   "stars": 132,
   "latest": {
    "version": "v6.0.0",
@@ -296,8 +296,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Sylius/WishlistPlugin",
-  "monthly": 13467,
-  "total": 111980,
+  "monthly": 13490,
+  "total": 112003,
   "stars": 6,
   "latest": {
    "version": "v1.4.0",
@@ -325,8 +325,8 @@
   "status": "replaced",
   "abandoned": false,
   "repository": "https://github.com/BitBagCommerce/SyliusCmsPlugin",
-  "monthly": 10952,
-  "total": 1211956,
+  "monthly": 10956,
+  "total": 1211960,
   "stars": 244,
   "latest": {
    "version": "v4.4",
@@ -353,8 +353,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusMediaManagerPlugin",
-  "monthly": 10042,
-  "total": 136775,
+  "monthly": 10064,
+  "total": 136797,
   "stars": 16,
   "latest": {
    "version": "v3.0.2",
@@ -382,8 +382,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusSettingsPlugin",
-  "monthly": 9175,
-  "total": 248901,
+  "monthly": 9189,
+  "total": 248915,
   "stars": 27,
   "latest": {
    "version": "v2.0.4",
@@ -411,8 +411,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/synolia/SyliusSchedulerCommandPlugin",
-  "monthly": 8657,
-  "total": 426441,
+  "monthly": 8659,
+  "total": 426443,
   "stars": 35,
   "latest": {
    "version": "v4.0.2",
@@ -440,8 +440,8 @@
   "status": "prerelease",
   "abandoned": false,
   "repository": "https://github.com/Setono/SyliusRedirectPlugin",
-  "monthly": 8108,
-  "total": 401924,
+  "monthly": 8112,
+  "total": 401928,
   "stars": 26,
   "latest": {
    "version": "v2.7.0",
@@ -469,8 +469,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/FriendsOfSylius/SyliusImportExportPlugin",
-  "monthly": 7337,
-  "total": 478385,
+  "monthly": 7338,
+  "total": 478386,
   "stars": 120,
   "latest": {
    "version": "0.28.0",
@@ -498,8 +498,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusCmsPagePlugin",
-  "monthly": 7256,
-  "total": 161336,
+  "monthly": 7276,
+  "total": 161356,
   "stars": 44,
   "latest": {
    "version": "v2.2.0",
@@ -556,8 +556,8 @@
   "status": "deprecated",
   "abandoned": true,
   "repository": "https://github.com/Sylius/AdminOrderCreationPlugin",
-  "monthly": 6369,
-  "total": 701390,
+  "monthly": 6370,
+  "total": 701391,
   "stars": 58,
   "latest": {
    "version": "v0.16.0",
@@ -577,8 +577,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusMenuPlugin",
-  "monthly": 5523,
-  "total": 96788,
+  "monthly": 5541,
+  "total": 96806,
   "stars": 15,
   "latest": {
    "version": "v2.0.5",
@@ -664,8 +664,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/synolia/SyliusGDPRPlugin",
-  "monthly": 4966,
-  "total": 182447,
+  "monthly": 4973,
+  "total": 182454,
   "stars": 21,
   "latest": {
    "version": "v2.0.0",
@@ -693,8 +693,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusHomepagePlugin",
-  "monthly": 4887,
-  "total": 91299,
+  "monthly": 4905,
+  "total": 91317,
   "stars": 13,
   "latest": {
    "version": "v2.1.0",
@@ -805,8 +805,8 @@
   "status": "replaced",
   "abandoned": false,
   "repository": "https://github.com/Sylius/PayumStripePlugin",
-  "monthly": 3882,
-  "total": 368755,
+  "monthly": 3884,
+  "total": 368757,
   "stars": 61,
   "latest": {
    "version": "v2.1.0",
@@ -829,8 +829,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/payplug/SyliusPayPlugPlugin",
-  "monthly": 3536,
-  "total": 93481,
+  "monthly": 3544,
+  "total": 93489,
   "stars": 8,
   "latest": {
    "version": "2.3.0",
@@ -858,8 +858,8 @@
   "status": "replaced",
   "abandoned": false,
   "repository": "https://github.com/BitBagCommerce/SyliusWishlistPlugin",
-  "monthly": 3509,
-  "total": 626128,
+  "monthly": 3514,
+  "total": 626133,
   "stars": 69,
   "latest": {
    "version": "v4.5.0",
@@ -938,43 +938,14 @@
   "deprecation": null
  },
  {
-  "name": "synolia/sylius-mail-tester-plugin",
-  "vendor": "synolia",
-  "description": "Mail Tester Plugin.",
-  "status": "ready",
-  "abandoned": false,
-  "repository": "https://github.com/synolia/SyliusMailTesterPlugin",
-  "monthly": 2970,
-  "total": 161372,
-  "stars": 15,
-  "latest": {
-   "version": "v2.7.0",
-   "date": "2026-09-17",
-   "requires": "sylius/sylius ^1.12",
-   "acceptsV1": true
-  },
-  "compatible": {
-   "version": "v3.1.0",
-   "date": "2026-09-17",
-   "requires": "sylius/sylius ^2.0"
-  },
-  "firstV2": "2025-04-10",
-  "branch": {
-   "name": "dev-main",
-   "requires": "sylius/sylius ^2.0"
-  },
-  "successor": null,
-  "deprecation": null
- },
- {
   "name": "monsieurbiz/sylius-cms-block-plugin",
   "vendor": "monsieurbiz",
   "description": "Save rich editor contents in database and use it as UI Element",
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/monsieurbiz/SyliusCmsBlockPlugin",
-  "monthly": 2967,
-  "total": 25596,
+  "monthly": 2977,
+  "total": 25606,
   "stars": 1,
   "latest": {
    "version": "v2.0.5",
@@ -996,14 +967,43 @@
   "deprecation": null
  },
  {
+  "name": "synolia/sylius-mail-tester-plugin",
+  "vendor": "synolia",
+  "description": "Mail Tester Plugin.",
+  "status": "ready",
+  "abandoned": false,
+  "repository": "https://github.com/synolia/SyliusMailTesterPlugin",
+  "monthly": 2975,
+  "total": 161377,
+  "stars": 15,
+  "latest": {
+   "version": "v2.7.0",
+   "date": "2026-09-17",
+   "requires": "sylius/sylius ^1.12",
+   "acceptsV1": true
+  },
+  "compatible": {
+   "version": "v3.1.0",
+   "date": "2026-09-17",
+   "requires": "sylius/sylius ^2.0"
+  },
+  "firstV2": "2025-04-10",
+  "branch": {
+   "name": "dev-main",
+   "requires": "sylius/sylius ^2.0"
+  },
+  "successor": null,
+  "deprecation": null
+ },
+ {
   "name": "synolia/sylius-maintenance-plugin",
   "vendor": "synolia",
   "description": "Plugin for Sylius when your website is under maintenance",
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/synolia/SyliusMaintenancePlugin",
-  "monthly": 2784,
-  "total": 86064,
+  "monthly": 2786,
+  "total": 86066,
   "stars": 5,
   "latest": {
    "version": "v2.1.2",
@@ -1060,8 +1060,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/dediagency/sylius-seo-plugin",
-  "monthly": 2657,
-  "total": 156594,
+  "monthly": 2659,
+  "total": 156596,
   "stars": 29,
   "latest": {
    "version": "v3.2.0",
@@ -1089,8 +1089,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/webgriffe/SyliusUpgradePlugin",
-  "monthly": 2460,
-  "total": 115972,
+  "monthly": 2462,
+  "total": 115974,
   "stars": 13,
   "latest": {
    "version": "v2.0.1",
@@ -1147,8 +1147,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/Elastic-Suite/gally-sylius-connector",
-  "monthly": 2305,
-  "total": 11313,
+  "monthly": 2306,
+  "total": 11314,
   "stars": 5,
   "latest": {
    "version": "v2.3.0",
@@ -1471,8 +1471,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/webgriffe/SyliusAkeneoPlugin",
-  "monthly": 1704,
-  "total": 86172,
+  "monthly": 1714,
+  "total": 86182,
   "stars": 24,
   "latest": {
    "version": "v2.8.2",
@@ -1500,8 +1500,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/3BRS/sylius-payment-restrictions-plugin",
-  "monthly": 1681,
-  "total": 18631,
+  "monthly": 1683,
+  "total": 18633,
   "stars": 3,
   "latest": {
    "version": "v3.2.0",
@@ -1616,8 +1616,8 @@
   "status": "prerelease",
   "abandoned": false,
   "repository": "https://github.com/loevgaard/SyliusBrandPlugin",
-  "monthly": 1531,
-  "total": 165366,
+  "monthly": 1533,
+  "total": 165368,
   "stars": 29,
   "latest": {
    "version": "v2.2.1",
@@ -2238,8 +2238,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/odiseoteam/SyliusBannerPlugin",
-  "monthly": 1205,
-  "total": 107370,
+  "monthly": 1206,
+  "total": 107371,
   "stars": 19,
   "latest": {
    "version": "v2.2.0",
@@ -2392,8 +2392,8 @@
   "status": "branch",
   "abandoned": false,
   "repository": "https://github.com/odiseoteam/SyliusBlogPlugin",
-  "monthly": 1067,
-  "total": 112734,
+  "monthly": 1068,
+  "total": 112735,
   "stars": 38,
   "latest": {
    "version": "v1.4.3",
@@ -2748,8 +2748,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/BitBagCommerce/SyliusShippingExportPlugin",
-  "monthly": 901,
-  "total": 121123,
+  "monthly": 902,
+  "total": 121124,
   "stars": 32,
   "latest": {
    "version": "v4.0.3",
@@ -3480,8 +3480,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/alma/sylius-2",
-  "monthly": 522,
-  "total": 763,
+  "monthly": 524,
+  "total": 765,
   "stars": 0,
   "latest": {
    "version": "1.0.0",
@@ -4166,8 +4166,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/acseo/SyliusTranslationPlugin",
-  "monthly": 312,
-  "total": 3346,
+  "monthly": 314,
+  "total": 3348,
   "stars": 2,
   "latest": {
    "version": "v4",
@@ -4239,6 +4239,35 @@
   "deprecation": null
  },
  {
+  "name": "acseo/sylius-prometheus-metrics-plugin",
+  "vendor": "acseo",
+  "description": "Sylius Prometheus Metrics Plugin",
+  "status": "ready",
+  "abandoned": false,
+  "repository": "https://github.com/acseo/SyliusPrometheusMetricsPlugin",
+  "monthly": 303,
+  "total": 6159,
+  "stars": 3,
+  "latest": {
+   "version": "v2.1",
+   "date": "2026-03-12",
+   "requires": "sylius/sylius ^1.14 || ^2.0",
+   "acceptsV1": true
+  },
+  "compatible": {
+   "version": "v2.1",
+   "date": "2026-03-12",
+   "requires": "sylius/sylius ^1.14 || ^2.0"
+  },
+  "firstV2": "2025-02-28",
+  "branch": {
+   "name": "dev-main",
+   "requires": "sylius/sylius ^1.14 || ^2.0"
+  },
+  "successor": null,
+  "deprecation": null
+ },
+ {
   "name": "whatwedo/sylius-datatrans-payment-plugin",
   "vendor": "whatwedo",
   "description": "Datatrans payment integration for your sylius e-commerce project.",
@@ -4260,30 +4289,26 @@
   "deprecation": null
  },
  {
-  "name": "acseo/sylius-prometheus-metrics-plugin",
-  "vendor": "acseo",
-  "description": "Sylius Prometheus Metrics Plugin",
-  "status": "ready",
+  "name": "sherlockode/sylius-mondial-relay-plugin",
+  "vendor": "sherlockode",
+  "description": "Sylius plugin for Mondial Relay.",
+  "status": "branch",
   "abandoned": false,
-  "repository": "https://github.com/acseo/SyliusPrometheusMetricsPlugin",
-  "monthly": 301,
-  "total": 6157,
-  "stars": 3,
+  "repository": "https://github.com/sherlockode/SyliusMondialRelayPlugin",
+  "monthly": 298,
+  "total": 6455,
+  "stars": 4,
   "latest": {
-   "version": "v2.1",
-   "date": "2026-03-12",
-   "requires": "sylius/sylius ^1.14 || ^2.0",
+   "version": "v1.1.2",
+   "date": "2024-08-05",
+   "requires": "sylius/sylius ~1.11.0 || ~1.12.0 || ~1.13.0",
    "acceptsV1": true
   },
-  "compatible": {
-   "version": "v2.1",
-   "date": "2026-03-12",
-   "requires": "sylius/sylius ^1.14 || ^2.0"
-  },
-  "firstV2": "2025-02-28",
+  "compatible": null,
+  "firstV2": null,
   "branch": {
-   "name": "dev-main",
-   "requires": "sylius/sylius ^1.14 || ^2.0"
+   "name": "dev-feature/sylius-2-compatibility",
+   "requires": "sylius/sylius ~2.0 || ~2.1"
   },
   "successor": null,
   "deprecation": null
@@ -4338,31 +4363,6 @@
   "branch": {
    "name": "dev-sylius-2.0-support",
    "requires": "sylius/sylius ^2.0"
-  },
-  "successor": null,
-  "deprecation": null
- },
- {
-  "name": "sherlockode/sylius-mondial-relay-plugin",
-  "vendor": "sherlockode",
-  "description": "Sylius plugin for Mondial Relay.",
-  "status": "branch",
-  "abandoned": false,
-  "repository": "https://github.com/sherlockode/SyliusMondialRelayPlugin",
-  "monthly": 293,
-  "total": 6450,
-  "stars": 4,
-  "latest": {
-   "version": "v1.1.2",
-   "date": "2024-08-05",
-   "requires": "sylius/sylius ~1.11.0 || ~1.12.0 || ~1.13.0",
-   "acceptsV1": true
-  },
-  "compatible": null,
-  "firstV2": null,
-  "branch": {
-   "name": "dev-feature/sylius-2-compatibility",
-   "requires": "sylius/sylius ~2.0 || ~2.1"
   },
   "successor": null,
   "deprecation": null
@@ -4527,8 +4527,8 @@
   "status": "v1-only",
   "abandoned": true,
   "repository": "https://github.com/stefandoorn/SyliusRecaptchaPlugin",
-  "monthly": 271,
-  "total": 25946,
+  "monthly": 272,
+  "total": 25947,
   "stars": 8,
   "latest": null,
   "compatible": null,
@@ -4824,6 +4824,35 @@
   "deprecation": null
  },
  {
+  "name": "hipay/hipay-payments-sylius",
+  "vendor": "hipay",
+  "description": "HiPay payment plugin for Sylius applications",
+  "status": "ready",
+  "abandoned": false,
+  "repository": "https://github.com/hipay/hipay-payments-sylius",
+  "monthly": 204,
+  "total": 1121,
+  "stars": 4,
+  "latest": {
+   "version": "v1.1.1",
+   "date": "2026-08-27",
+   "requires": "sylius/sylius ^2.0",
+   "acceptsV1": false
+  },
+  "compatible": {
+   "version": "v1.1.1",
+   "date": "2026-08-27",
+   "requires": "sylius/sylius ^2.0"
+  },
+  "firstV2": "2026-04-27",
+  "branch": {
+   "name": "dev-main",
+   "requires": "sylius/sylius ^2.0"
+  },
+  "successor": null,
+  "deprecation": null
+ },
+ {
   "name": "synolia/sylius-admin-notification-plugin",
   "vendor": "synolia",
   "description": "Admin notifications for Sylius.",
@@ -4877,35 +4906,6 @@
   "branch": {
    "name": "dev-main",
    "requires": "sylius/sylius ^1.14 || ^2.0"
-  },
-  "successor": null,
-  "deprecation": null
- },
- {
-  "name": "hipay/hipay-payments-sylius",
-  "vendor": "hipay",
-  "description": "HiPay payment plugin for Sylius applications",
-  "status": "ready",
-  "abandoned": false,
-  "repository": "https://github.com/hipay/hipay-payments-sylius",
-  "monthly": 201,
-  "total": 1118,
-  "stars": 4,
-  "latest": {
-   "version": "v1.1.1",
-   "date": "2026-08-27",
-   "requires": "sylius/sylius ^2.0",
-   "acceptsV1": false
-  },
-  "compatible": {
-   "version": "v1.1.1",
-   "date": "2026-08-27",
-   "requires": "sylius/sylius ^2.0"
-  },
-  "firstV2": "2026-04-27",
-  "branch": {
-   "name": "dev-main",
-   "requires": "sylius/sylius ^2.0"
   },
   "successor": null,
   "deprecation": null
@@ -5239,8 +5239,8 @@
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/CylleneDigital/SyliusAdvancedTaxonPlugin",
-  "monthly": 156,
-  "total": 168,
+  "monthly": 158,
+  "total": 170,
   "stars": 2,
   "latest": {
    "version": "v1.1.0",
@@ -5347,8 +5347,8 @@
   "status": "branch",
   "abandoned": false,
   "repository": "https://github.com/bitExpert/sylius-minimum-order-value",
-  "monthly": 127,
-  "total": 127,
+  "monthly": 128,
+  "total": 128,
   "stars": 2,
   "latest": null,
   "compatible": null,
@@ -6576,35 +6576,14 @@
   "deprecation": null
  },
  {
-  "name": "waaz/axepta-plugin",
-  "vendor": "waaz",
-  "description": "Axepta payment plugin for Sylius",
-  "status": "v1-only",
-  "abandoned": false,
-  "repository": "https://github.com/StudioWaaz/WaazAxeptaPlugin",
-  "monthly": 50,
-  "total": 3227,
-  "stars": 0,
-  "latest": {
-   "version": "2.4",
-   "date": "2023-04-04",
-   "requires": "sylius/sylius ^1.10",
-   "acceptsV1": true
-  },
-  "compatible": null,
-  "firstV2": null,
-  "successor": null,
-  "deprecation": null
- },
- {
   "name": "3brs/sylius-404-log-plugin",
   "vendor": "3brs",
   "description": "404 log plugin for Sylius",
   "status": "ready",
   "abandoned": false,
   "repository": "https://github.com/3BRS/sylius-404-log-plugin",
-  "monthly": 49,
-  "total": 234,
+  "monthly": 50,
+  "total": 235,
   "stars": 0,
   "latest": {
    "version": "v2.3.0",
@@ -6622,6 +6601,27 @@
    "name": "dev-main",
    "requires": "sylius/sylius ^2.1"
   },
+  "successor": null,
+  "deprecation": null
+ },
+ {
+  "name": "waaz/axepta-plugin",
+  "vendor": "waaz",
+  "description": "Axepta payment plugin for Sylius",
+  "status": "v1-only",
+  "abandoned": false,
+  "repository": "https://github.com/StudioWaaz/WaazAxeptaPlugin",
+  "monthly": 50,
+  "total": 3227,
+  "stars": 0,
+  "latest": {
+   "version": "2.4",
+   "date": "2023-04-04",
+   "requires": "sylius/sylius ^1.10",
+   "acceptsV1": true
+  },
+  "compatible": null,
+  "firstV2": null,
   "successor": null,
   "deprecation": null
  },
@@ -7336,6 +7336,35 @@
   "deprecation": null
  },
  {
+  "name": "codeconjure/gls-sylius-plugin",
+  "vendor": "codeconjure",
+  "description": "GLS szállítási integráció Syliushoz: szállítási módok, csomagpont, díj, és — MyGLS API-val — csomagfeladás, címke, nyomkövetés.",
+  "status": "ready",
+  "abandoned": false,
+  "repository": "https://github.com/connorhu/gls-sylius-plugin",
+  "monthly": 28,
+  "total": 28,
+  "stars": 0,
+  "latest": {
+   "version": "0.7.0",
+   "date": "2026-11-14",
+   "requires": "sylius/sylius ^2.1",
+   "acceptsV1": false
+  },
+  "compatible": {
+   "version": "0.7.0",
+   "date": "2026-11-14",
+   "requires": "sylius/sylius ^2.1"
+  },
+  "firstV2": "2026-11-12",
+  "branch": {
+   "name": "dev-main",
+   "requires": "sylius/sylius ^2.1"
+  },
+  "successor": null,
+  "deprecation": null
+ },
+ {
   "name": "nextstore/sylius-dropshipping-core-plugin",
   "vendor": "nextstore",
   "description": "This is internal package, will broke your code",
@@ -7374,35 +7403,6 @@
   },
   "compatible": null,
   "firstV2": null,
-  "successor": null,
-  "deprecation": null
- },
- {
-  "name": "codeconjure/gls-sylius-plugin",
-  "vendor": "codeconjure",
-  "description": "GLS szállítási integráció Syliushoz: szállítási módok, csomagpont, díj, és — MyGLS API-val — csomagfeladás, címke, nyomkövetés.",
-  "status": "ready",
-  "abandoned": false,
-  "repository": "https://github.com/connorhu/gls-sylius-plugin",
-  "monthly": 27,
-  "total": 27,
-  "stars": 0,
-  "latest": {
-   "version": "0.7.0",
-   "date": "2026-11-14",
-   "requires": "sylius/sylius ^2.1",
-   "acceptsV1": false
-  },
-  "compatible": {
-   "version": "0.7.0",
-   "date": "2026-11-14",
-   "requires": "sylius/sylius ^2.1"
-  },
-  "firstV2": "2026-11-12",
-  "branch": {
-   "name": "dev-main",
-   "requires": "sylius/sylius ^2.1"
-  },
   "successor": null,
   "deprecation": null
  },
