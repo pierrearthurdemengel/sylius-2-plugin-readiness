@@ -180,4 +180,6 @@ ${cta}<p>Plugins by publisher: ${Object.keys(vendors).sort().map((v) => `<a href
 writeFileSync(join(OUT, "sitemap.xml"), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${u}</loc><lastmod>${s.generatedAt}</lastmod></url>`).join("\n")}\n</urlset>\n`);
 writeFileSync(join(OUT, "robots.txt"), `User-agent: *\nAllow: /\nSitemap: ${BASE}/sitemap.xml\n`);
 writeFileSync(join(OUT, ".nojekyll"), "");
+// Google Search Console ownership file: must stay published.
+writeFileSync(join(OUT, "google6de4f2abd1d80cbc.html"), "google-site-verification: google6de4f2abd1d80cbc.html");
 console.log(urls.length, "pages");
