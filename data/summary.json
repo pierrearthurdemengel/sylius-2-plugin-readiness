@@ -1,25 +1,25 @@
 {
- "generatedAt": "2026-11-16",
- "latestSylius": "v2.3.2",
- "total": 805,
- "declared": 785,
+ "generatedAt": "2026-11-23",
+ "latestSylius": "v2.3.3",
+ "total": 806,
+ "declared": 787,
  "byStatus": {
-  "ready": 249,
+  "ready": 251,
   "replaced": 5,
-  "prerelease": 14,
+  "prerelease": 15,
   "deprecated": 3,
-  "branch": 32,
-  "v1-only": 482
+  "branch": 33,
+  "v1-only": 480
  },
- "active": 399,
+ "active": 401,
  "activeByStatus": {
-  "ready": 242,
+  "ready": 244,
   "replaced": 3,
   "prerelease": 11,
-  "branch": 11,
-  "v1-only": 131,
+  "branch": 12,
+  "v1-only": 130,
   "deprecated": 1
  },
- "activeReadyPct": 60.7,
- "readyDownloadPct": 82.9
+ "activeReadyPct": 60.8,
+ "readyDownloadPct": 82.2
 }
